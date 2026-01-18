@@ -69,5 +69,3 @@ EstoqueTech é um sistema de **gestão de estoque** desenvolvido para facilitar 
 
 ## Autor
 **Gabriel Fontana**  
-- Desenvolvedor Fullstack e Engenheiro de Software em formação  
-- Contato: gfontana@grupovittia.com.br
